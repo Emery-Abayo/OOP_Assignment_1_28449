@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AUCA_ID",
+            "request": "launch",
+            "mainClass": "com.auca.main.Main",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "AUCA_ID (no records)",
+            "request": "launch",
+            "mainClass": "com.auca.main.Main",
+            "args": "empty",
+            "console": "integratedTerminal"
+        }
+    ]
+}
